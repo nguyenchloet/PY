@@ -9,6 +9,6 @@ Python projects for grades 4+
 ## Turtle Race
 
 <img src="/TurtleRace.png" width="300" height="300" />
-<img src="/TurtleRaceTerminal.png" width="622" height="248" />
+<img src="/TurtleRaceTerminal.png" width="498" height="198" />
 
 
