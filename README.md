@@ -3,7 +3,7 @@ Python projects for grades 4+
 
 ## Multi Password Generator
 
-![MultiPassword Generator Terminal](<img src="/MultiPasswordGenerator.png" width="100" height="100" />)
+<img src="/MultiPasswordGenerator.png" width="200" height="140" />
 
 
 ## Turtle Race
