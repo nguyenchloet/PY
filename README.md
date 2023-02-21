@@ -9,11 +9,13 @@ Each password uses a defined number of symbols, numbers and characters.
 
 
 ## Turtle Race
-Set up turtle racers on the screen. User input guess which racer will win based on turtle color.
+Set up turtle racers on the screen. User inputs guess of which racer will win based on turtle color.
+
 <img src="/TurtleRace.png" width="300" height="300" />
 <img src="/TurtleRaceTerminal.png" width="498" height="198" />
 
 ## Coin Collector
 Move turtle image with key presses, collect points and move coin to new random location after each collision.
+
 <img src="/CoinCollector.png" width="300" height="300" />
 
