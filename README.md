@@ -3,12 +3,12 @@ Python projects for grades 4+
 
 ## Multi Password Generator
 
-<img src="/MultiPasswordGenerator.png" width="820" height="176" />
+<img src="/MultiPasswordGenerator.png" width="574" height="123" />
 
 
 ## Turtle Race
 
 <img src="/TurtleRace.png" width="300" height="300" />
-<img src="/TurtleRaceTerminal.png" width="888" height="354" />
+<img src="/TurtleRaceTerminal.png" width="622" height="248" />
 
 
