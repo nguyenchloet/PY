@@ -1,12 +1,12 @@
 # PY
 Python projects for grades 4+
 
-#Multi Password Generator
+## Multi Password Generator
 
-![alt text](https://github.com/nguyenchloet/PY/blob/main/MultiPasswordGenerator.png)
+![MultiPassword Generator Terminal](/MultiPasswordGenerator.png)
 
-#Turtle Race
+## Turtle Race
 
-![alt text](https://github.com/nguyenchloet/PY/blob/main/TurtleRace.png)
-![alt text](https://github.com/nguyenchloet/PY/blob/main/TurtleRaceTerminal.png)
+![Turtle Race Screen](/TurtleRace.png)
+![Turtle Race Terminal](/TurtleRaceTerminal.png)
 
