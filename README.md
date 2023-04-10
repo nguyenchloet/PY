@@ -19,3 +19,8 @@ Move turtle image with key presses, collect points and move coin to new random l
 
 <img src="/CoinCollector.png" width="300" height="300" />
 
+
+## Space Shooter
+Move spaceship with key presses, shoot lasers with space button. Points for each invader hit with laser, life lost for each player collision with invader. 
+
+<img src="/SpaceShooter.png" width="300" height="300" />
